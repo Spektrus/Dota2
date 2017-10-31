@@ -1,0 +1,33 @@
+/*Plats för header och footer*/
+#content {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+/*Footer centrering*/
+.container #footer {
+	text-align: center;
+	margin-top: 15px;
+}
+
+/*Input text*/
+#input {
+	width: 40%;
+}
+
+/*Kommentarer*/
+.date {
+	float: right;
+}
+
+.comment {
+	width: 50%;
+}
+
+.commentInfo {
+	margin-top: -10px;
+}
+.commentText {
+	margin-bottom: -10px;
+	clear: both;
+}
