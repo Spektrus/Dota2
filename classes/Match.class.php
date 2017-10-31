@@ -6,8 +6,8 @@ class Match {
 	public $apikey;
 
 	public function __construct() {
-		$this->db = new mysqli('beckius.me', 'mabe1317', 'cDBtWSX9sCsjBmNc', 'projekt'); // Databas
-		$this->apikey = "EC70849F4F195F151784D729025C9960";
+		$this->db = new mysqli('secret'); // Databas
+		$this->apikey = "secret";
 
 	}
 
