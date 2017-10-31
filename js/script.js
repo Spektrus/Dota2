@@ -1,5 +1,5 @@
 function getMatchInfo() {
-	var key = "EC70849F4F195F151784D729025C9960";
+	var key = "secret";
 	var id = $("#input").val();
 
 	url = "https://api.steampowered.com/IDOTA2Match_570/GetMatchDetails/V001/?match_id="+id+"&key="+key+"";
