@@ -1,2 +1,3 @@
 # Dota2
-Dota 2 match details
+
+Retrieves match information from Dota 2 API.
